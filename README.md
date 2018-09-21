@@ -4,18 +4,28 @@
 
 ### By: Elly Maimon
 
-#### Project’s Purpose or Goal:
+#### Project’s Purpose:
 
-The goal of Bread Baker's (App)rentice is to provide a connected organization platform that home or professional bakers can use as a resource to aid in their baking of breads. 
+The purpose of Bread Baker's (App)rentice is to provide a connected organization platform that home or professional bakers can use as a resource to aid in their baking of breads. 
 
 Bakers will have the ability to create and sift through personal and community-created recipes, scale the recipes, keep track of their starters, keep notes on variables during the baking process, and visualize all aspects of the process in detail. 
 
-#### Minimum Features
+#### Minimum Features (MVP)
 
-What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+*The project will be built out with a React front-end, and implement either a C# or a Node.js back-end (in the form of an API) as a stretch goal.*
 
-If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+MVP Goals:
+* User can log-in to an authenticated account
+* User can create/edit/update/delete custom recipes using a pre-existing or custom ingredients
+* User can view the recipe by baking convention units (% of flour, % hydration, etc.)
+* User can scale the recipe to any weight or percent increase with ease
+* User can use application to aid in baking process using timing features and reminders
 
-What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
+#### Stretch Goals
 
-Is there anything else you’d like your instructor to know?
+*After the initial features are implemented, I will add a C#/.NET or a NodeJS backend and store user entries from the community, turning the application back-end into an API.* 
+
+MVP Goals:
+* Users can browse recipes created by community members
+* Users can vet recipes by rating or voting on them
+* Users can comment on recipes
