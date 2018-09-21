@@ -32,3 +32,8 @@ Stretch Goals:
 
 Stretchiest Goal:
 * Create react native version of application to use on mobile
+
+#### Layout Planning Sketches
+
+![Homepage, Login, Feed, and Create Recipe](Layout-1.jpg)
+![Create Recipe continued](Layout-2.jpg)
