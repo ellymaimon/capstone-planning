@@ -1,6 +1,6 @@
 # Capstone Project Proposal
 
-## The Bread Baker's App(rentice)
+## 🍞 The Bread Baker's App(rentice) 🍞
 
 ### By: Elly Maimon
 
