@@ -2,6 +2,8 @@
 
 ## 🍞 The Bread Baker's App(rentice) 🍞
 
+https://github.com/ellymaimon/bread-bakers-apprentice
+
 ### By: Elly Maimon
 
 #### Project’s Purpose:
