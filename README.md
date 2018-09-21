@@ -1,10 +1,16 @@
-#Name of Student: Elly Maimon
+# Capstone Project Proposal
 
-Name of Project:
+## The Bread Baker's App(rentice)
 
-Project’s Purpose or Goal: (What will it do for users?)
+### By: Elly Maimon
 
-List the absolute minimum features the project requires to meet this purpose or goal:
+#### Project’s Purpose or Goal:
+
+The goal of Bread Baker's (App)rentice is to provide a connected organization platform that home or professional bakers can use as a resource to aid in their baking of breads. 
+
+Bakers will have the ability to create and sift through personal and community-created recipes, scale the recipes, keep track of their starters, keep notes on variables during the baking process, and visualize all aspects of the process in detail. 
+
+#### Minimum Features
 
 What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
 
