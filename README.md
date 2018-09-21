@@ -37,3 +37,7 @@ Stretchiest Goal:
 
 ![Homepage, Login, Feed, and Create Recipe](Layout-1.jpg)
 ![Create Recipe continued](Layout-2.jpg)
+
+#### Component Tree & Routes
+
+![Component Tree](Capstone_Component_Tree.png)
