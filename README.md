@@ -25,7 +25,10 @@ MVP Goals:
 
 *After the initial features are implemented, I will add a C#/.NET or a NodeJS backend and store user entries from the community, turning the application back-end into an API.* 
 
-MVP Goals:
+Stretch Goals:
 * Users can browse recipes created by community members
 * Users can vet recipes by rating or voting on them
 * Users can comment on recipes
+
+Stretchiest Goal:
+* Create react native version of application to use on mobile
